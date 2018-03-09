@@ -1,4 +1,4 @@
-# WSO2-Server-Setup-Notes
+# Server-Setup-Notes
 
 install to /usr/local/[application name]
 
